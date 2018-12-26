@@ -1,7 +1,15 @@
 
 # 경북대학교 2018 SW 스킬업 해커톤 1위 수상작 '버드아이저'
 
+![e5e9ea13-1675-41c1-9708-340159287667](https://user-images.githubusercontent.com/43809168/50433720-494d1200-091d-11e9-955f-ee18082e69e3.jpeg)
+
 * 본 작품은 2018년 8월 바나나코딩이 주최하고 경북대학교 PRIME 사업단이 주관한 SW 스킬업 해커톤에서 최우수상(1위)을 수상한 칠면조 팀의 버드아이저 프로젝트에 관한 코드와 개발 문서 입니다.
+
+## 개발 사양
+
+* Arduino Uno, Arducam Mini module Camera Shield w/ 2 MP OV2640, Macbook, Python
+
+* 카메라 구매 사이트 : http://mechasolution.com/shop/goods/goods_view.php?goodsno=330855&category=
 
 ## 주의사항
 
@@ -19,4 +27,10 @@
 
 3. 총 5장의 사진이 predict에 쌓이면 예측을 시작하고 학습된 모델이 있는지 여부를 판단하고 있으면 레이저를 발사함.
 
-## 딥러닝 출처 : https://github.com/tensorflow/models/tree/master/research/inception
+## 딥러닝 모델 출처 
+
+* https://github.com/tensorflow/models/tree/master/research/inception
+
+### Special Thanks
+
+* 아두이노 사진 촬영 후 노트북으로 전송하는데 많은 기술적 도움을 주신 '메카솔루션'의 '데이브'개발자님 진심으로 감사드립니다.
