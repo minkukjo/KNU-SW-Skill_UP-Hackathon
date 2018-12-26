@@ -7,7 +7,7 @@
 
 ## 개발 사양
 
-* Arduino Uno, Arducam Mini module Camera Shield w/ 2 MP OV2640, Macbook, Python
+* Arduino Uno, Arducam Mini module Camera Shield w/ 2 MP OV2640, Macbook, Python, Servo moter
 
 * 카메라 구매 사이트 : http://mechasolution.com/shop/goods/goods_view.php?goodsno=330855&category=
 
