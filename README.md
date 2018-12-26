@@ -19,4 +19,4 @@
 
 3. 총 5장의 사진이 predict에 쌓이면 예측을 시작하고 학습된 모델이 있는지 여부를 판단하고 있으면 레이저를 발사함.
 
-## 딥러닝 모델 출처 : https://github.com/tensorflow/models/tree/master/research/inception
+## 딥러닝 출처 : https://github.com/tensorflow/models/tree/master/research/inception
